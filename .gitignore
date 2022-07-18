@@ -1,3 +1,10 @@
+#python config
+config.py
+
+#practice files
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -32,13 +39,6 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-
-#python config
-config.py
-
-#practice files
-API_practice.ipynb
-random_numbers.ipynb
 
 # Installer logs
 pip-log.txt
